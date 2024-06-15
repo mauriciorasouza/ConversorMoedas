@@ -1,3 +1,5 @@
+Para rodar esse projeto é necessário realizar os downloads (via terminal no local da pasta) listados abaixo:
+
 npm install
 
 npm install @react-navigation/native @react-navigation/bottom-tabs
